@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "mbedtls_config.h": "c",
+        "check_config.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "freertos.h": "c",
+        "projdefs.h": "c",
+        "freertosconfig.h": "c",
+        "freertos_mpool.h": "c",
+        "task.h": "c",
+        "cmsis_compiler.h": "c",
+        "cmsis_os.h": "c",
+        "stm32f4xx_hal_conf.h": "c"
+    }
+}
